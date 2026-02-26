@@ -1,6 +1,10 @@
 # MediGuide-Chatbot
 A simple medical advice chatbot built using Gemini API and Streamlit. Users can describe their symptoms and get general health information with follow-up questions. This project focuses on building a basic GenAI app with a clean UI and safe medical guidance.
 
+ Live Demo (temporarily hosted on AWS EC2):  
+http://16.171.39.132:8501  
+*(The instance may be stopped to avoid costs.)*
+
 ### Home
 ![Home screen](screenshots/home.png)
 
